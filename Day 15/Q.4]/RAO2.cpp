@@ -14,7 +14,7 @@ int main(){
         ll x, c = 0;
         cin>>x;
         
-        // picking up a random number and taking it's reminder with x
+        // picking up a random number and taking it's remainder with x
         c += rand()%x;
         cout<<c<<" "<<x-c<<endl;
     }

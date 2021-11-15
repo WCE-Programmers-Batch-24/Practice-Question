@@ -4,3 +4,5 @@
 ---
 # [Question 3 - Two Sum](https://leetcode.com/problems/two-sum/)
 ---
+# [Question 4 - AND Plus OR](https://www.codechef.com/problems/ANDOR)
+---

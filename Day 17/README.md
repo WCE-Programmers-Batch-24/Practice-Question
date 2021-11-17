@@ -1,2 +1,2 @@
-# [Question 1 - Joker and Batman](https://codeforces.com/problemset/problem/433/B)
+# [Question 1 - Kuriyama Mirai's Stones](https://codeforces.com/problemset/problem/433/B)
 ---

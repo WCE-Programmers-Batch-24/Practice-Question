@@ -2,3 +2,5 @@
 ---
 # [Question - 2 Magical Planks](https://www.codechef.com/FZBZ21C/problems/MKGPLNKS)
 ---
+# [Question 3 - Carvans](https://www.codechef.com/LRNDSA01/problems/CARVANS)
+---
